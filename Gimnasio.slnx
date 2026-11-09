@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gimnasio/Gimnasio.csproj" />
+    <Project Path="src/GimnasioController/GimnasioController.csproj" />
+    <Project Path="src/GimnasioModels/GimnasioModels.csproj" />
+  </Folder>
+</Solution>

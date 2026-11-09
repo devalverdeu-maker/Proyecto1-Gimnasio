@@ -1,0 +1,5 @@
+[
+  { "Id": 1, "Nombre": "Ana Mora", "Edad": 25, "NombreUsuario": "anam", "Peso": 60, "Estatura": 1.65, "Rutinas": [] },
+  { "Id": 2, "Nombre": "Luis Rojas", "Edad": 30, "NombreUsuario": "luisr", "Peso": 82, "Estatura": 1.78, "Rutinas": [] },
+  { "Id": 3, "Nombre": "Sofia Vargas", "Edad": 22, "NombreUsuario": "sofiav", "Peso": 55, "Estatura": 1.60, "Rutinas": [] }
+]
